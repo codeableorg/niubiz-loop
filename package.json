@@ -2,8 +2,10 @@
   "name": "niubiz-loop",
   "version": "1.0.0",
   "description": "Update order statuses",
-  "main": "index.js",
+  "main": "public/index.js",
   "scripts": {
+    "start": "node index.js",
+    "build": "echo \"Fake build\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
